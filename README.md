@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <h2>RAMAMIHARIVELO Marihasina💬</h2> 
+    <h2 style="color:#FF0000"><i>RAMAMIHARIVELO Marihasina💬</i></h2>
 </div>
 
 ## A propos :
