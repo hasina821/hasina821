@@ -31,6 +31,11 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasina821&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasina821&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hasina821&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
 
 <div align="center">
     <h2><i>"Our imagination is  our only limit</i></h2> 
